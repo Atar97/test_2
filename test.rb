@@ -1,1 +1,5 @@
-# I am using this to test git 
+# I am using this to test git
+
+class Test
+  
+end
